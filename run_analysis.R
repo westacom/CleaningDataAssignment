@@ -1,4 +1,4 @@
-Run_Analysis<-function()
+run_analysis<-function()
 {
   
   #Note: The UCI Har Dataset folder should be in your default working directory.
